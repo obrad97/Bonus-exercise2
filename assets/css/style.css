@@ -125,7 +125,7 @@ body {
 }
 
 .question:hover {
-    color:#F47B56;
+    color: #f47b56 !important;
     cursor: pointer;
 }
 
